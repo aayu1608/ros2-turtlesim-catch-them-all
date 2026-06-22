@@ -67,6 +67,8 @@ my_robot_bringup/
 │   └──turtlesim_catch_them_all.launch.yaml
 ├──config/
 │   └──catch_them_all_config.yaml
+├──package.xml
+├──CMakeLists.txt
 └── README.md
 ```
 
