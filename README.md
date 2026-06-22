@@ -57,10 +57,10 @@ turtlesim_catch_them_all/
 ├── setup.py
 ├── setup.cfg
 my_robot_interfaces/
-├──msg
+├──msg/
 │   ├──Turtle.msg
 │   └──TurtleArray.msg
-├──srv
+├──srv/
 │  └──CatchTurtle.srv
 ├──CMakeLists.txt
 ├──package.xml
