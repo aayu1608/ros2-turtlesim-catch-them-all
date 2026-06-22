@@ -121,10 +121,7 @@ The launch file automatically starts all required nodes and simplifies project e
 ---
 
 ## Demo
-
-```markdown
-![Demo](assets/Demo.png)
-```
+![Output](assets/Demo.png)
 
 ---
 
