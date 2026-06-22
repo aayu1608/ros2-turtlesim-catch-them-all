@@ -62,6 +62,8 @@ my_robot_interfaces/
 │   └──TurtleArray.msg
 ├──srv
 │  └──CatchTurtle.srv
+├──CMakeLists.txt
+├──package.xml
 my_robot_bringup/
 ├──launch/
 │   └──turtlesim_catch_them_all.launch.yaml
@@ -69,7 +71,7 @@ my_robot_bringup/
 │   └──catch_them_all_config.yaml
 ├──package.xml
 ├──CMakeLists.txt
-└── README.md
+README.md
 ```
 
 ---
