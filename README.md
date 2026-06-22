@@ -123,7 +123,7 @@ The launch file automatically starts all required nodes and simplifies project e
 ## Demo
 
 ```markdown
-![Demo](assets/Demo.mov)
+![Demo](assets/Demo.png)
 ```
 
 ---
@@ -160,10 +160,3 @@ Through this project, I gained practical experience with:
 * Dynamic target prioritization
 
 ---
-
-## Author
-
-**Aayushi Tidke**
-
-Robotics and AI Engineering
-COEP Technological University
